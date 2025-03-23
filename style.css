@@ -1,0 +1,20 @@
+.main{
+    background-color: black;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+    
+}
+
+.background {
+    background-image: url("resources/teamup.png");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+tr >th{
+    color: red;
+}
